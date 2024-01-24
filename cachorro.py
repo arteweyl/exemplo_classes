@@ -13,3 +13,6 @@ class Cachorro:
 
     def morder(self,pessoa):
         print(f"{self.nome} mordeu {pessoa}")
+
+    def  latir_ingles(self):
+        print("Woof!")
